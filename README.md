@@ -5,14 +5,38 @@ Articles to get started with: <br>
 (1)- The Rise of the AI Engineer from Latent Space Substack Newsletter <br>
       🎐 https://www.latent.space/p/ai-engineer <br>
 (2)- The New Language Model Stack by Sequoia Capital <br>
-      🎐 https://www.sequoiacap.com/article/llm-stack-perspective/ <br> <br>
+      🎐 https://www.sequoiacap.com/article/llm-stack-perspective/ <br> <br><br>
+
+      
 
 Medium Articles to explore before diving deep: <br>
 (1)- The Building Blocks of Generative AI by Jonathan Shriftman on Medium [Reading Time = 2] <br>
-      🎐 https://lnkd.in/dRmgc_As <br> <br>
+      🎐 https://lnkd.in/dRmgc_As <br> 
+(2)- The 10 biggest Artificial Intelligence (AI) trends for 2023 & beyond <br>
+      🎐 https://medium.com/@jennifer.wales22/the-10-biggest-artificial-intelligence-ai-trends-for-2023-beyond-60b5ef326200 <br><br><br>
+
+      
+
+Other helpful Articles to explore before diving deep: <br>
+(1)-Generative AI in 2023: What Should Be Expected?<br>
+      🎐 https://www.usaii.org/ai-insights/generative-ai-in-2023-what-should-be-expected<br><br><br>
+
+
+      
 
 Some Great Resources to explore as you begin your journey into GenAI space: <br>
 (1)- ChatGPT Prompt Engineering for Developers [current] <br>
       🎐 https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction <br>
 (2)- Large Language Models with Semantic Search [current] <br>
-      🎐https://learn.deeplearning.ai/large-language-models-semantic-search/lesson/1/introduction <br><br>
+      🎐 https://learn.deeplearning.ai/large-language-models-semantic-search/lesson/1/introduction <br><br><br>
+
+      
+
+
+Paid Certifications for AI Engineers: <br>
+(1)- Fast-track to future-ready AI leaders_Certifications by the United States Artificial Intelligence Institute (USAII) <br>
+      🎐 https://www.usaii.org/artificial-intelligence-certifications <br><br><br>
+
+
+
+      
