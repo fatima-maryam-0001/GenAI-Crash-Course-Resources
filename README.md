@@ -30,12 +30,27 @@ Some Great Resources to explore as you begin your journey into GenAI space: <br>
 (2)- Large Language Models with Semantic Search [current] <br>
       🎐 https://learn.deeplearning.ai/large-language-models-semantic-search/lesson/1/introduction <br><br><br>
 
-      
+
+
+
 
 
 Paid Certifications for AI Engineers: <br>
 (1)- Fast-track to future-ready AI leaders_Certifications by the United States Artificial Intelligence Institute (USAII) <br>
       🎐 https://www.usaii.org/artificial-intelligence-certifications <br><br><br>
+
+
+
+
+      
+Legal Apects of Gen-AI: <br>
+(1)-Defamation Law Primer For The AI + Chat GPT + LLM Enthusiast <br>
+      🎐 https://medium.com/illumination/defamation-law-primer-for-the-ai-chat-gpt-llm-enthusiast-7b5a97802175 <br><br><br>
+
+
+
+      
+GenAI-Ethics: <br>
 
 
 
