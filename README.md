@@ -30,7 +30,7 @@ Some Great Resources to explore as you begin your journey into GenAI space: <br>
 (2)- Large Language Models with Semantic Search [current] <br>
       🎐 https://learn.deeplearning.ai/large-language-models-semantic-search/lesson/1/introduction <br>
 (3)- LangChain for LLM Application Development <br>
-      🎐 https://learn.deeplearning.ai/langchain/lesson/1/introduction br><br><br>
+      🎐 https://learn.deeplearning.ai/langchain/lesson/1/introduction <br><br><br>
 
 
 
